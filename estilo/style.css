@@ -28,7 +28,7 @@
 
 
 body {
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(13, 197, 96);
     font-family: var(--font-padrao);
     padding: 20px;
     border-radius: 10px;
@@ -53,7 +53,7 @@ main p {
 
 main strong {
     color:white;
-    fonte-weight:bold;
+    font-weight:bold;
     background-color: black;
     padding: 2px 6px;
 }
@@ -61,8 +61,8 @@ main strong {
 main a {
     text-decoration: none;
     font-weight: bold;
-    color:aliceblue
-    back
+    color:aliceblue;
+    
 }
 
 main h2 {
